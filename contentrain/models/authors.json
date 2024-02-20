@@ -103,5 +103,24 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "ssaaaaassss",
+    "description": "sssss",
+    "fieldId": "ssaaaaassss",
+    "modelId": "authors",
+    "componentId": "switch",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "switch": {
+            "value": true
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "boolean"
   }
 ]
